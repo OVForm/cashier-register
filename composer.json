@@ -12,8 +12,8 @@
         }
     ],
     "require": {
-        "illuminate/database": "^8.40",
-        "illuminate/support": "^8.40"
+        "illuminate/database": "*",
+        "illuminate/support": "*"
     },
     "autoload": {
         "psr-4": {
