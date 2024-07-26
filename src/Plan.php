@@ -19,6 +19,8 @@ class Plan implements Arrayable
      */
     protected $yearlyPrice = 0.00;
 
+    protected $yearlyId = null;
+
     /**
      * Create a new plan builder.
      *
